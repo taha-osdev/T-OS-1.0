@@ -8,6 +8,7 @@ What's inside:
 - Basic memory management 
 - Interrupt management 
 
+For the bootloader, I used a modified version of **GNU-EFI**, which helped me understand the boot process and integrate the OS with UEFI systems.
 It's not a big project, but it was an excellent starting point for understanding OS concepts and getting practical experience. 
 
 While creating this operating system, I used **Absurdponcho**'s [OSDEV Tutorial S2](https://github.com/Absurdponcho) tutorial series. Through the tutorial, I learned step by step and added my own experience. 
